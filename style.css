@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(235, 220, 197);
+}
+
 .navegacao .logo {
     max-width: 70px;
 }
@@ -27,4 +31,5 @@ section {
     text-align: center;
     font-size: 24px;
     padding: 0 20px;
+    color: rgb(187, 183, 150);
 }
