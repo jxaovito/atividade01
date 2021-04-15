@@ -1,0 +1,30 @@
+.navegacao .logo {
+    max-width: 70px;
+}
+
+.navegacao {
+    max-width: 1800px;
+    margin: 0 auto; /* Centraliza blocos */
+}
+
+.navegacao ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+}
+
+.navegacao ul li {
+    text-align: center;
+    padding: 0 20px;
+    flex-grow: 0.2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+section {
+    font-family: 'Staatliches', cursive;
+    text-align: center;
+    font-size: 24px;
+    padding: 0 20px;
+}
